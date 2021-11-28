@@ -137,11 +137,11 @@ button{
   display: none;
 }
 
-.todo-list__text_edit {
+.item-list_edit .todo-list__text {
   display: inline-block;
   width: 224px;
 }
 
-.todo-list__label_edit {
+.item-list_edit .todo-list__label {
   display: none;
 }
