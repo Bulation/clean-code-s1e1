@@ -138,11 +138,11 @@ button{
   display: none;
 }
 
-.item-list_edit .todo-list__text {
+.item-list_edit .input-text {
   display: inline-block;
   width: 224px;
 }
 
-.item-list_edit .todo-list__label {
+.item-list_edit .label {
   display: none;
 }
